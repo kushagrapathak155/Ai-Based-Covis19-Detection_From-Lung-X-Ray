@@ -1,6 +1,6 @@
 ﻿AI Based Covid-19 Detection from Lung X-Rays
 
-Akhil Srinivas Parimala, 20BCE0567; Kushagra Pathak, 20BCI0155; Puttamreddy Navyatha Reddy 20BCT0305;
+
 
 ***Abstract* — COVID-19 continues to have catastrophic effects on the lives of human beings throughout the world and also exposes the vulnerability of healthcare services worldwide, especially in underdeveloped countries. Hence, it is very important to design an automated and early diagnosis system which can provide fast decisions and greatly reduce the diagnosis error. The lung X-ray images along with emerging Artificial Intelligence methodologies, in particular Deep Learning algorithms, have recently become a worthy choice for early COVID-19 screening. This paper proposes a Deep Learning assisted automated method using  X-ray images for early diagnosis of COVID-19.**
 
